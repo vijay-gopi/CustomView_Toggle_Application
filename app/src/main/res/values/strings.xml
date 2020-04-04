@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomView Toggle Application</string>
+    <string name="click_me">Click Me</string>
+</resources>
